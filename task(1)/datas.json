@@ -1,0 +1,20 @@
+[
+    {
+        "name": "fady",
+        "subject": "phy",
+        "grade": 70,
+        "comment": "pass"
+    },
+    {
+        "name": "mohamed",
+        "subject": "math",
+        "grade": 90,
+        "comment": "pass"
+    },
+    {
+        "name": "heba",
+        "subject": "phy",
+        "grade": 40,
+        "comment": "fail"
+    }
+]
